@@ -13,4 +13,4 @@ Since I have combined dataframe that collect enough data, I use prophet model to
 
 Part 3 optional section is to pull and clean sales data, I also use prophet model to predict next 90 days sales/revenue, sum the total of sales based on best case, worst case and most likely case for next 90 days prediction.
 
-Overall, I get a conclusion that the best case sales amount is 1052.15, worst case sales amount is 887.17, most likely sales amount is 969.61
+Overall, I get a conclusion that the best case sales amount is \$1052.15, worst case sales amount is \$887.17, most likely sales amount is \$969.61
